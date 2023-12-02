@@ -1,4 +1,6 @@
 # React + Vite
+1. npm run intsall after cloning the repo in you terminal.
+2. npm run dev for starting the local server.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
